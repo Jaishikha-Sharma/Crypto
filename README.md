@@ -69,10 +69,7 @@ Open your web browser and visit http://localhost:3000 to access the Crypto Curre
 Explore the dashboard's features, select charts, currencies, coins, manage your portfolio, and stay updated with the latest crypto market news and exchange rates.
 
 ## Screenshots
-Screenshot 1
-
-
-Screenshot 2
+![Capture](https://github.com/user-attachments/assets/cb98062c-2443-4767-9fee-0d6e070b4c81)
 
 ## Contributing
 Contributions to this project are welcome! To contribute:
